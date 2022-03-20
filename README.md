@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/FireNick44/FireNick44/6a7101d1c7402e0f20610dd88b784476a2384486/assets/hello.svg">
+<img src="https://raw.githubusercontent.com/FireNick44/FireNick44/22a39a43fc95a99ac620a43e8463f8ee2921c8df/assets/hello.svg">
 
 I am Yannic
 
