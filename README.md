@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/FireNick44/FireNick44/22a39a43fc95a99ac620a43e8463f8ee2921c8df/assets/hello.svg">
+<img src="https://raw.githubusercontent.com/FireNick44/FireNick44/773c4a087d493b894083087f0cc306433f547266/assets/hello-world.svg">
 
 ### Work in progress !!!
 
