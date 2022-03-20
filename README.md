@@ -9,4 +9,4 @@ Stats
 
 `int test = 1`
 
-<img src="https://raw.githubusercontent.com/FireNick44/FireNick44/ab32dac08c904f87615d4df554efaf7110cceae2/assets/water-animation.svg"  width="100%">
+<img src="https://raw.githubusercontent.com/FireNick44/FireNick44/9e373db66b2782ee71e7c0bddfaa33d294cae48a/assets/water-animation.svg"  width="100%">
