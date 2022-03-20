@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/FireNick44/FireNick44/6a7101d1c7402e0f20610dd88b784476a2384486/assets/hello.svg">
 
 I am Yannic
 
