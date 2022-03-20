@@ -11,7 +11,7 @@ Stats
 ---
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/FireNick44?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=15&config.timezone=Europe%2FZurich">
+  <img src="https://raw.githubusercontent.com/FireNick44/FireNick44/73babbc53fcebd3f0e55c278c2167b822b293b5e/github-metrics.svg">
 </p>
 
 ---
