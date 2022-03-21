@@ -1,9 +1,10 @@
 name: Metrics
 on:
-  # Schedule updates (each hour)
+  # Schedule daily updates
   schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  # (optional) Run workflow manually
   workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -11,7 +12,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
