@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/FireNick44/FireNick44/002dc727b9dff9ef5cbb97463d4f7fb33dff38a1/assets/hello-world.svg">
+<img src="https://github.com/FireNick44/FireNick44/blob/main/assets/hello-world.svg">
 
 ### Work in progress !!!
 
@@ -11,7 +11,7 @@ Stats
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FireNick44/FireNick44/73babbc53fcebd3f0e55c278c2167b822b293b5e/github-metrics.svg">
+  <img src="https://github.com/FireNick44/FireNick44/blob/main/github-metrics.svg">
 </p>
 
 ---
@@ -25,5 +25,5 @@ Stats
   Bye
 </p>
 
-<img src="https://raw.githubusercontent.com/FireNick44/FireNick44/9e373db66b2782ee71e7c0bddfaa33d294cae48a/assets/water-animation.svg"  width="100%">
+<img src="https://github.com/FireNick44/FireNick44/blob/main/assets/water-animation.svg"  width="100%">
 <!--- END -->
