@@ -1,11 +1,54 @@
-<img src="https://github.com/FireNick44/FireNick44/blob/main/assets/hello-world.svg">
+<img src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/hello%20world.svg">
 
-### Work in progress !!!
+# [ Work in progress !!! ]
 
-## Skills:
+## 🛠️ My Skills
 
-`c` `c#` `c++` `html` `css`
+### 👨‍💻 Programming languages
 
+<p>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/c.svg"          alt="c" height="42px"/> </a>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/cplusplus.svg"  alt="c++" height="42px"/> </a>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/csharp.svg"     alt="c#" height="42px"/> </a>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/css3.svg"       alt="css" height="42px"/> </a>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/html5.svg"      alt="html" height="42px"/> </a>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/java.svg"       alt="java" height="42px"/> </a>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/javascript.svg" alt="javascript" height="42px"/> </a>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/nodejs.svg"     alt="nodejs" height="42px"/> </a>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/python.svg"     alt="python" height="42px"/> </a>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/sass.svg"       alt="sass" height="42px"/> </a>
+  <br>
+</p>
+
+<br>
+
+### 💻 Software
+
+<p>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/software/brave.svg"           alt="brave" height="42px"/> </a>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/software/git.svg"             alt="git" height="42px"/> </a>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/software/github.svg"          alt="github" height="42px"/> </a>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/software/visual%20studio.svg" alt="visual studio" height="42px"/> </a>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/software/vscode.svg"          alt="visual studio code" height="42px"/> </a>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/software/jetbrains.svg"       alt="jetbrains intellij" height="42px"/> </a>
+  <br>
+</p>
+
+<br>
+
+### ⚙ Operating system
+
+<p>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/os/linux%20garuda.svg"        alt="linux garuda" height="42px"/> </a>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/os/linux%20kali%20cursed.svg" alt="linux kali" height="42px"/> </a>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/os/raspberrypi.svg"           alt="raspberrypi" height="42px"/> </a>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/os/ubuntu.svg"                alt="ubuntu" height="42px"/> </a>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/os/windows10.svg"             alt="1indows 10" height="42px"/> </a>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/os/windows11.svg"             alt="windows 11" height="42px"/> </a>
+  <br>
+</p>
+
+<br>
 
 Stats
 ---
@@ -16,7 +59,7 @@ Stats
 
 ---
 
-<h1 align="center">Contact me?</h1>
+<h2 align="center">Contact me?</h2>
 <p align="center">yannic.studer@protonmail.com <a href="mailto:yannic.studer@protonmail.com">↗</a></p>
 
 <p align="center">
@@ -25,5 +68,5 @@ Stats
   Bye
 </p>
 
-<img src="https://github.com/FireNick44/FireNick44/blob/main/assets/water-animation.svg"  width="100%">
+<img src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/water%20animation.svg"  width="100%">
 <!--- END -->
