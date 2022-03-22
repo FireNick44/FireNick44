@@ -8,8 +8,8 @@
 
 <p>
   <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/c.svg"          alt="c" height="40px"/> </a>
-  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/csharp.svg"     alt="c#" height="40px"/> </a>
   <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/cplusplus.svg"  alt="c++" height="40px"/> </a>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/csharp.svg"     alt="c#" height="40px"/> </a>
   <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/java.svg"       alt="java" height="40px"/> </a>
   <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/python.svg"     alt="python" height="40px"/> </a>
   <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/nodejs.svg"     alt="nodejs" height="40px"/> </a>
@@ -20,6 +20,7 @@
 </p>
 
 <br>
+<br>
 
 ### 💻 Software
 
@@ -29,9 +30,9 @@
   <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/software/vscode.svg"          alt="visual studio code" height="40px"/> </a>
   <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/software/brave.svg"           alt="brave" height="40px"/> </a>
   <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/software/git.svg"             alt="git" height="40px"/> </a>
-  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/software/github.svg"          alt="github" height="40px"/> </a>
 </p>
 
+<br>
 <br>
 
 ### ⚙ Operating system
@@ -44,6 +45,7 @@
   <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/os/raspberrypi.svg"           alt="raspberrypi" height="40px"/> </a>
 </p>
 
+<br>
 <br>
 
 Stats
