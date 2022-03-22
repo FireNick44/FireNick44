@@ -1,32 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg4525" viewBox="0 0 256.4 291.5" width="2199" height="2500">
-    <style>
-        .st0 {
-            fill: #d4b830
-        }
-
-        .st1,
-        .st2 {
-            opacity: .986;
-            fill: #ebebeb;
-            fill-opacity: 0;
-            enable-background: new
-        }
-
-        .st2 {
-            fill-opacity: .9216
-        }
-
-        .st3 {
-            fill: #fdd83c
-        }
-    </style>
-    <g id="g5193" transform="translate(4.988 -113.385)">
-        <path id="path5113" class="st0"
-            d="M18.8 375.4L-5 113.4l256.4.1-23.6 261.7L123 404.8 18.8 375.4zm189.7-14.3l19.9-224.4h-105l.8 247.5 84.3-23.1zm-94.9-191.5H88.1l-.3 134.3-49.5-13.5.1 30.7 75.2 20.3V169.6z" />
-        <path id="path5159" class="st1"
-            d="M105.2 338.9c-3.3-1-19.6-5.4-36.2-9.9l-30.1-8.1v-15.1c0-14.8 0-15.1 1.5-14.6.8.3 11.8 3.3 24.4 6.8l22.9 6.3.2-67 .2-67h25v85.2c0 67.7-.2 85.2-.9 85.2-.5-.1-3.7-.9-7-1.8z" />
-        <path id="path5157" class="st2" d="M38.4 321.1l-.1-30.7s31.6 8.9 49.5 13.5l.3-134.2h25.5v171.7l-75.2-20.3z" />
-        <path id="path5117" class="st3"
-            d="M123.4 136.6h105L208.5 361l-85.1 23.1V136.6zm79.7 186.8l6.9-83.9-51 5.7v-44.8l54.4-.2 2.2-30.6-82.1.4 1.1 111.4 49.6-8.5-.7 24.8-50 13.3.5 30.4 69.1-18z" />
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns="http://www.w3.org/2000/svg" version="1.1" width="297.45001" height="337.341" viewBox="0 0 297.45001 337.341"
+    id="svg2">
+    <defs id="defs8" />
+    <g transform="translate(-0.071,-82.67)" id="Layer_1" style="fill:none;stroke:none">
+        <path d="M 27.142,386.29 0.071,82.67 l 297.45,0 -27.096,303.571 -121.811,33.77 L 27.142,386.29 z m 0,0"
+            id="path13" style="fill:#d4b830;fill-opacity:1" />
+        <path d="m 148.798,394.199 98.427,-27.288 23.157,-259.415 -121.584,0 0,286.703 z m 0,0" id="path15"
+            style="fill:#fdd83c;fill-opacity:1" />
+        <g transform="translate(55,142)" id="Group">
+            <path
+                d="m 195.55107,75.496002 -52.47907,0 0,-38.132 55.79667,0 3.30333,-37.23899948 -98.0332,0 0,112.60699748 50.7682,0 -4.484,48.294 -46.284,8.426 0,38.819 81.091,-18.451 z"
+                id="path18" style="fill:white;fill-opacity:1" />
+            <path
+                d="m 83.795999,0.12500252 -83.15099941,0 3.45300001,37.25399948 42.3189994,3.4e-4 0,126.706188 -20.741,-3.03453 -2.652,-29.698 c 0,0 -24.9193323,0 -37.378999,0 l 5.2159997,58.467 c 92.9349993,18.45053 0.3522911,-0.0135 92.9349993,18.45053 z"
+                id="path24" style="fill:white;fill-opacity:1" />
+        </g>
     </g>
 </svg>
