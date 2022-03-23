@@ -14,8 +14,8 @@ Stats
 ### 👨‍💻 Programming languages (still learning) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;// and html + css ツ
 
 <p>
-  <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/c.svg" alt="c" height="40px"/>
-  <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/cplusplus.svg" alt="c++" height="40px"/>
+  <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/c.svg" alt="c" height="40px" margin-top="5px"/>
+  <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/cplusplus.svg" alt="c++" height="40px" margin-top="5px"/>
   <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/csharp.svg" alt="c#" height="40px"/>
   <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/java.svg" alt="java" height="40px"/>
   <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/python.svg" alt="python" height="40px"/>
