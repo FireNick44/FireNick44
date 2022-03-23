@@ -4,7 +4,7 @@
 
 ## 🛠️ My Skills
 
-### 👨‍💻 Programming languages
+### 👨‍💻 Programming languages&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;// and html + css ツ
 
 <p>
   <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/languages/c.svg"          alt="c" height="40px"/> </a>
@@ -25,6 +25,7 @@
 ### 💻 Software
 
 <p>
+  <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/software/adobe/cc.png"        alt="adobe creative cloud" height="40px"/> </a>
   <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/software/jetbrains.svg"       alt="jetbrains intellij" height="40px"/> </a>
   <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/software/visual%20studio.svg" alt="visual studio" height="40px"/> </a>
   <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/software/vscode.svg"          alt="visual studio code" height="40px"/> </a>
@@ -35,7 +36,7 @@
 <br>
 <br>
 
-### ⚙ Operating system
+### ⚙ Operating systems
 
 <p>
   <a href="#" target="_blank"> <img align="left" src="https://github.com/FireNick44/FireNick44/blob/main/assets/svg/os/windows10.svg"             alt="windows 10" height="40px"/> </a>
