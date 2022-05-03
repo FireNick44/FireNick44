@@ -1,4 +1,4 @@
-<img src="./assets/svg/hello%20world.svg">
+<img src="./assets/svg/hello-world.svg">
 
 # [ Work in progress !!! ]
 
