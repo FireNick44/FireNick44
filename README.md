@@ -65,5 +65,5 @@ Stats
   Bye
 </p>
 
-<img src="./assets/svg/water%20animation.svg"  width="100%">
+<img src="./assets/svg/water-animation.svg"  width="100%">
 <!--- END -->
