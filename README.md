@@ -1,5 +1,12 @@
 <img src="./assets/svg/hello-world.svg">
 
+<br>
+
+# Hi, I'm Yannic 👋 
+
+
+
+
 # [ Work in progress !!! ]
 
 Stats
@@ -11,7 +18,7 @@ Stats
 
 ## 🛠️ My Skills
 
-### 👨‍💻 Programming languages (still learning) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;// and html + css ツ
+### 👨‍💻 Programming languages (still learning) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;// and html + css ツ
 
 <p>
   <img align="left" src="./assets/svg/languages/c.svg" alt="c" height="40px" margin-top="5px"/>
@@ -32,12 +39,24 @@ Stats
 ### 💻 Software
 
 <p>
-  <a href="https://www.adobe.com/ch_de/creativecloud.html" target="_blank"> <img align="left" src="./assets/svg/software/adobe/cc.png" alt="adobe creative cloud" height="40px"/> </a>
-  <a href="https://www.jetbrains.com/de-de/idea/" target="_blank"> <img align="left" src="./assets/svg/software/jetbrains.svg" alt="jetbrains intellij" height="40px"/> </a>
-  <a href="https://visualstudio.microsoft.com/de/" target="_blank"> <img align="left" src="./assets/svg/software/visual-studio.svg" alt="visual studio" height="40px"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" src="./assets/svg/software/vscode.svg" alt="visual studio code" height="40px"/> </a>
-  <a href="https://brave.com/de/" target="_blank"> <img align="left" src="./assets/svg/software/brave.svg" alt="brave" height="40px"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img align="left" src="./assets/svg/software/git.svg" alt="git" height="40px"/> </a>
+  <a href="https://www.adobe.com/ch_de/creativecloud.html" target="_blank">
+    <img align="left" src="./assets/svg/software/adobe/cc.png" alt="adobe creative cloud" height="40px"/>
+  </a>
+  <a href="https://www.jetbrains.com/de-de/idea/" target="_blank">
+    <img align="left" src="./assets/svg/software/jetbrains.svg" alt="jetbrains intellij" height="40px"/>
+  </a>
+  <a href="https://visualstudio.microsoft.com/de/" target="_blank">
+    <img align="left" src="./assets/svg/software/visual-studio.svg" alt="visual studio" height="40px"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img align="left" src="./assets/svg/software/vscode.svg" alt="visual studio code" height="40px"/>
+  </a>
+  <a href="https://brave.com/de/" target="_blank">
+    <img align="left" src="./assets/svg/software/brave.svg" alt="brave" height="40px"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img align="left" src="./assets/svg/software/git.svg" alt="git" height="40px"/>
+  </a>
 </p>
 
 <br>
