@@ -80,8 +80,6 @@ Stats
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FireNick44&color=0066F5&label=PROFILE+VIEWS&style=for-the-badge">
-  <br>
-  Bye
 </p>
 
 <img src="./assets/svg/water-animation.svg"  width="100%">
