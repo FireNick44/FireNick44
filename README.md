@@ -2,25 +2,26 @@
 
 <br>
 
-# Hi, I'm Yannic 👋 
+## I'm Yannic 👋🏻
 
+A motivated student and developer who enjoys helping other people, highly interested in computers and security.
 
+[ Work in progress !!! ]
 
-
-# [ Work in progress !!! ]
-
-Stats
----
+## Stats
 
 <p align="center">
   <img src="./github-metrics.svg" width="600px">
 </p>
 
-## 🛠️ My Skills
+## 🛠️ My skills and interests
 
 ### 👨‍💻 Programming languages (still learning) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;// and html + css ツ
 
 <p>
+  <img align="left" src="./assets/svg/languages/languages.svg" alt="languages" height="45px" margin-top="5px"/>
+
+  <!--
   <img align="left" src="./assets/svg/languages/c.svg" alt="c" height="40px" margin-top="5px"/>
   <img align="left" src="./assets/svg/languages/cplusplus.svg" alt="c++" height="40px" margin-top="5px"/>
   <img align="left" src="./assets/svg/languages/csharp.svg" alt="c#" height="40px"/>
@@ -31,10 +32,12 @@ Stats
   <img align="left" src="./assets/svg/languages/html5.svg" alt="html" height="40px"/>
   <img align="left" src="./assets/svg/languages/css3.svg" alt="css" height="40px"/>
   <img align="left" src="./assets/svg/languages/sass.svg" alt="sass" height="40px"/>
+  -->
 </p>
 
 <br>
 <br>
+
 
 ### 💻 Software
 
@@ -62,6 +65,7 @@ Stats
 <br>
 <br>
 
+
 ### ⚙ Operating systems
 
 <p>
@@ -80,8 +84,6 @@ Stats
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FireNick44&color=0066F5&label=PROFILE+VIEWS&style=for-the-badge">
-  <br>
-  Bye
 </p>
 
 <img src="./assets/svg/water-animation.svg"  width="100%">
