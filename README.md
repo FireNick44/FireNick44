@@ -19,9 +19,10 @@ A motivated student and developer who enjoys helping other people, highly intere
 ### 👨‍💻 Programming languages (still learning) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;// and html + css ツ
 
 <p>
-  <img align="left" src="./assets/svg/languages/languages.svg" alt="languages" height="45px" margin-top="5px"/>
-
   <!--
+  <img align="left" src="./assets/svg/languages/languages.svg" alt="languages" height="45px" margin-top="5px"/>
+  -->
+
   <img align="left" src="./assets/svg/languages/c.svg" alt="c" height="40px" margin-top="5px"/>
   <img align="left" src="./assets/svg/languages/cplusplus.svg" alt="c++" height="40px" margin-top="5px"/>
   <img align="left" src="./assets/svg/languages/csharp.svg" alt="c#" height="40px"/>
@@ -32,7 +33,6 @@ A motivated student and developer who enjoys helping other people, highly intere
   <img align="left" src="./assets/svg/languages/html5.svg" alt="html" height="40px"/>
   <img align="left" src="./assets/svg/languages/css3.svg" alt="css" height="40px"/>
   <img align="left" src="./assets/svg/languages/sass.svg" alt="sass" height="40px"/>
-  -->
 </p>
 
 <br>
