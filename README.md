@@ -18,7 +18,8 @@ A motivated student and developer who enjoys helping other people, highly intere
 
 ### 👨‍💻 Programming languages (still learning) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;// and html + css ツ
 
-<p>
+<p align="left" height="40px" width="100%" >
+
   <!--
   <img align="left" src="./assets/svg/languages/languages.svg" alt="languages" height="45px" margin-top="5px"/>
   -->
