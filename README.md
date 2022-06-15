@@ -21,8 +21,8 @@ A motivated student and developer who enjoys helping other people, highly intere
 <p align="left" height="40px" width="100%" >
 
   <!--
-  -->
   <img align="left" src="./assets/svg/languages/languages.svg" alt="languages" height="45px" margin-top="5px"/>
+  -->
 
   <img align="left" src="./assets/svg/languages/c.svg" alt="c" height="40px" margin-top="5px"/>
   <img align="left" src="./assets/svg/languages/cplusplus.svg" alt="c++" height="40px" margin-top="5px"/>
