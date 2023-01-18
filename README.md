@@ -12,7 +12,7 @@ A motivated student and developer who enjoys helping other people, highly intere
 
 <p align="center">
   <a href="https://a36.dev">
-    a36.dev
+    <img src="./assets/svg/website.svg">
   </a>
 </p>
 
