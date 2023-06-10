@@ -32,12 +32,16 @@ A motivated student and developer who enjoys helping other people, highly intere
 
 ### 👨‍💻 Programming languages (still learning) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;// and html + css ツ
 
-<p align="left" width="100%" margin-top="20px">
+<br>
 
-  <img align="left" src="./assets/svg/group/languages.svg" alt="languages" margin-top="20px"/>
-  
-  <!--
-  //old way, not responsive...
+![Image](./assets/svg/group/languages.svg)
+
+<br>
+<br>
+
+<!--
+//old way, not responsive...
+<p align="left" height="100%">
   <img align="left" src="./assets/svg/languages/languages.svg" alt="languages" height="45px" margin-top="5px"/>
   <img align="left" src="./assets/svg/languages/c.svg" alt="c" height="40px" margin-top="5px"/>
   <img align="left" src="./assets/svg/languages/cplusplus.svg" alt="c++" height="40px" margin-top="5px"/>
@@ -49,20 +53,18 @@ A motivated student and developer who enjoys helping other people, highly intere
   <img align="left" src="./assets/svg/languages/html5.svg" alt="html" height="40px"/>
   <img align="left" src="./assets/svg/languages/css3.svg" alt="css" height="40px"/>
   <img align="left" src="./assets/svg/languages/sass.svg" alt="sass" height="40px"/>
-  -->
 </p>
-
-<br>
-<br>
-
+-->
 
 ### 💻 Software
 
-<p align="left" width="100%" margin-top="20px">
+![Image](./assets/svg/group/software.svg)
 
-  <img align="left" src="./assets/svg/group/software.svg" alt="software" margin-top="20px"/>
+<br>
+<br>
 
-  <!--
+<!--
+<p>
   <a href="https://www.adobe.com/ch_de/creativecloud.html" target="_blank">
     <img align="left" src="./assets/svg/software/adobe/cc.png" alt="adobe creative cloud" height="40px"/>
   </a>
@@ -81,30 +83,27 @@ A motivated student and developer who enjoys helping other people, highly intere
   <a href="https://git-scm.com/" target="_blank">
     <img align="left" src="./assets/svg/software/git.svg" alt="git" height="40px"/>
   </a>
-  -->
 </p>
-
-<br>
-<br>
-
+-->
 
 ### ⚙ Operating systems
 
-<p  align="left" width="100%" margin-top="20px">
+![Image](./assets/svg/group/os.svg)
 
-  <img align="left" src="./assets/svg/group/os.svg" alt="os" margin-top="20px"/>
+<br>
+<br>
 
-  <!--
+<!--
+<p>
   <img align="left" src="./assets/svg/os/windows10.svg" alt="windows 10" height="40px"/>
   <img align="left" src="./assets/svg/os/linux-garuda.svg" alt="linux garuda" height="40px"/>
   <img align="left" src="./assets/svg/os/linux-kali-cursed.svg" alt="linux kali" height="40px"/>
   <img align="left" src="./assets/svg/os/ubuntu.svg" alt="ubuntu" height="40px"/>
   <img align="left" src="./assets/svg/os/raspberrypi.svg" alt="raspberrypi" height="40px"/>
-  -->
 </p>
+-->
 
-<br>
-<br>
+---
 
 <h2 align="center">Contact me?</h2>
 <p align="center">yannic.studer@protonmail.com <a href="mailto:yannic.studer@protonmail.com">↗</a></p>
@@ -115,3 +114,5 @@ A motivated student and developer who enjoys helping other people, highly intere
 
 <img src="./assets/svg/water-animation.svg"  width="100%">
 <!--- END -->
+
+
