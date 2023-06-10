@@ -1,15 +1,14 @@
 <img src="./assets/svg/hello-world.svg">
-
 <br>
-
-## I'm Yannic 👋🏻
-
-A motivated student and developer who enjoys helping other people, highly interested in computers and security.
-
-[ Work in progress !!! ]
-
-## My Website
-
+<h2 align="center">
+   Hello World, I'm Yannic 👋🏻
+</h2>
+<p align="center">
+   'A motivated student and developer who enjoys helping other people, highly interested in computers and security'</br>
+</p>
+<h2 align="center">
+   My Website
+</h2>
 <p align="center">
   <a href="https://a36.dev">
     <img src="./assets/svg/website.svg">
@@ -30,15 +29,15 @@ A motivated student and developer who enjoys helping other people, highly intere
 
 ## 🛠️ My skills and interests
 
-### 👨‍💻 Programming languages (still learning) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;// and html + css ツ
-
-<br>
+### 👨‍💻 Programming stuff (still learning) 
+ > /*\
+ > ( and html + css ツ )\
+ > Frameworks and more\
+ > */
 
 ![Image](./assets/svg/group/languages.svg)
 
 <br>
-<br>
-
 <!--
 //old way, not responsive...
 <p align="left" height="100%">
@@ -57,12 +56,9 @@ A motivated student and developer who enjoys helping other people, highly intere
 -->
 
 ### 💻 Software
-
 ![Image](./assets/svg/group/software.svg)
 
 <br>
-<br>
-
 <!--
 <p>
   <a href="https://www.adobe.com/ch_de/creativecloud.html" target="_blank">
@@ -87,12 +83,9 @@ A motivated student and developer who enjoys helping other people, highly intere
 -->
 
 ### ⚙ Operating systems
-
 ![Image](./assets/svg/group/os.svg)
 
 <br>
-<br>
-
 <!--
 <p>
   <img align="left" src="./assets/svg/os/windows10.svg" alt="windows 10" height="40px"/>
@@ -103,7 +96,6 @@ A motivated student and developer who enjoys helping other people, highly intere
 </p>
 -->
 
----
 
 <h2 align="center">Contact me?</h2>
 <p align="center">yannic.studer@protonmail.com <a href="mailto:yannic.studer@protonmail.com">↗</a></p>
