@@ -4,7 +4,7 @@
    Hello World, I'm Yannic 👋🏻
 </h2>
 <p align="center">
-   'A motivated student and developer who enjoys helping other people, highly interested in computers and security'</br>
+   'A motivated developer who enjoys helping other people, highly interested in computers and security'</br>
 </p>
 <h2 align="center">
    My Website
